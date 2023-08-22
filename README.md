@@ -61,6 +61,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For detailed information about the data cleaning steps and project progress, refer to the [Project Notebook](ProjectNotebook.ipynb).
+For detailed information about the data cleaning steps and project progress, refer to the excel workbook.
 
 For more information about the original dataset and its source, visit [Kaggle](https://www.kaggle.com/mysarahmadbhat/shark-attacks).
